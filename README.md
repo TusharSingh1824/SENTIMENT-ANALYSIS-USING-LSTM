@@ -61,7 +61,7 @@ This enables the model to capture long-term dependencies and handle sequential d
 
 ## 📈 Results
 
-- Achieved **91% validation accuracy**
+- Achieved **88% validation accuracy**
 - Improved generalization using Dropout
 - Demonstrated contextual learning over baseline ML model
 
